@@ -1,6 +1,12 @@
-Senior Lecturer
+---
+layout: about
+permalink: /cv/
+title: CV
+published: true
+---
+**Matthew Bryan**
 
-Matthew Bryan
+Senior Lecturer
 
 > University of Central Florida Department of Writing and Rhetoric
 >
