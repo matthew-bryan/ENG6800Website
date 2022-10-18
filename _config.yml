@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Matthew Bryan
-description: Senior Lecturer | Assistant Director, UWC | University of Central Florida
+description: Senior Lecturer | University of Central Florida
 
 baseurl: /ENG6800Website #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/matthew-bryan-71930b254/"
 github: "https://github.com/matthew-bryan"
 orcid: "https://orcid.org/0000-0001-9597-3048"
 
