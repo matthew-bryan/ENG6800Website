@@ -5,16 +5,16 @@ title: CV
 published: true
 ---
 
-# EDUCATION
+### EDUCATION
 
 **M.F.A., Master of Fine Arts in Creative Writing**, University of
 Central Florida, 2009
 
 **B.A., English**, University of Central Florida, 2006
 
-# ACADEMIC POSITIONS
+### ACADEMIC POSITIONS
 
-# Senior Lecturer, Department of Writing and Rhetoric, University of Central Florida, August 2022 -- Present
+**Senior Lecturer**, Department of Writing and Rhetoric, University of Central Florida, August 2022 -- Present
 
 **Associate Lecturer**, Department of Writing and Rhetoric, University
 of Central Florida, August 2016 -- August 2022
@@ -25,7 +25,7 @@ Florida, August 2010 -- August 2016
 **Instructor**, Department of English, University of Central Florida,
 August 2009 -- August 2010
 
-# LEADERSHIP EXPERIENCE
+### LEADERSHIP EXPERIENCE
 
 **Assistant Director**, University Writing Center, University of Central
 Florida, August 2020 -- Present
@@ -41,9 +41,9 @@ Rhetoric, University of Central Florida, May 2013 -- May 2017
 Writing and Rhetoric, University of Central Florida, August 2012 --
 April 2013
 
-**PUBLICATIONS**
+### PUBLICATIONS
 
-**Book Chapter**
+#### Book Chapter (Peer-Reviewed)
 
 Bryan, Matthew, Kevin Roozen, and Nichole Stack. "Taking the Field:
 (Re)Invigorating WAW through Conversations with University Stakeholders
@@ -51,7 +51,7 @@ Outside of Rhetoric and Composition." *Next Steps: New Directions for/in
 Writing about Writing*," edited by Barb Bird, Doug Downs, I. Moriah
 McCracken, and Jan Rieman, Utah State UP, 2019.
 
-**Textbook Sections**
+#### Textbook Sections (Editor-Reviewed)
 
 Bryan, Matthew. "Instructor's Manual." *Writing about Writing: A College
 Reader*, 5th ed., edited by Elizabeth Wardle and Doug Downs, Bedford/St.
@@ -69,7 +69,7 @@ Bryan, Matthew, Nathan Holic, Lissa Mansfield, Adele Richardson, Nichole
 Stack, Jacob Stewart, and Kevin Roozen, editors. *UCF Writes: A Handbook
 for Writing at the University of Central Florida*. Fountainhead, 2016.
 
-**Non-Refereed Publications**
+#### Non-Refereed Publications
 
 Bryan, Matthew. "'Shining a Spotlight': A Decade of *Stylus: A Journal
 of First-Year Writing*." *Stylus: A Journal of First-Year Writing*, vol.
@@ -93,14 +93,11 @@ Writing about It?" *Write On: Notes on Teaching Writing about Writing*,
 4 Nov. 2010, Bedford/St. Martin's, bedfordbits.colostate.edu/
 index.php/2010/11/04/writing-about-writing-but-what-writing-and-how-are-we-writing-about-it/.
 
-# CONFERENCE PRESENTATIONS
+### CONFERENCE PRESENTATIONS
 
-# \* *indicates student co-presenter*
+\* *indicates student co-presenter*
 
-Bryan, Matthew. "'Noting' the Past, Looking Ahead: Using Session Notes
-to Trace Shifts in a Writing Center's Values and Practices over Time."
-Southeastern Writing Center Association Conference 2022, virtual,
-February 10-12, 2022.
+#### International and National
 
 Bryan, Matthew, Deborah Weaver, Jarrett Webster\*, and Lindsey Wright\*.
 "'Who I Am, Not Just Something I Do': The Pandemic Writing Center as
@@ -110,6 +107,25 @@ Nexus of Practice." International Writing Centers Association Conference
 Bryan, Matthew. "Rewriting 'Collaboration' in (and around) the Center:
 Reflections on a Co-Curricular Writing Lab Pilot." Online Writing
 Centers Association Conference 2021, virtual, October 4-8, 2021.
+
+Howard, Wendy, **Matthew Bryan**, Archana Dubey, Kacie Tartt, and Anne
+Prucha. "Faculty Panel: Digital Course Redesign." OLC (Online Learning
+Consortium) Accelerate 2019, Orlando, FL, November 19-22, 2019.
+
+Bryan, Matthew. "Creating Agency for Teachers and Students in a
+Writing-About-Writing Curriculum." Thomas R. Watson Conference,
+Louisville, KY, October 15, 2010.
+
+Bryan, Matthew. "Let Them Live Their Own Lives: Building a Relationship
+with a Character Over Time." Association of Writers & Writing Programs
+Annual Conference, Chicago, IL, February 11-14, 2009.
+
+#### Regional
+
+Bryan, Matthew. "'Noting' the Past, Looking Ahead: Using Session Notes
+to Trace Shifts in a Writing Center's Values and Practices over Time."
+Southeastern Writing Center Association Conference 2022, virtual,
+February 10-12, 2022.
 
 Bryan, Matthew. "Empty Spaces that Are Still Full: Reading a Writing
 Center's Spaces and Objects through Mediated Discourse Theory." Pacific
@@ -127,26 +143,10 @@ in Writing Center Mentorship, Outreach, and Access in Response to
 COVID-19 through an Activity Theory Framework." Southeastern Writing
 Center Association Conference 2021, virtual, February 11-13, 2021.
 
-Howard, Wendy, **Matthew Bryan**, Archana Dubey, Kacie Tartt, and Anne
-Prucha. "Faculty Panel: Digital Course Redesign." OLC (Online Learning
-Consortium) Accelerate 2019, Orlando, FL, November 19-22, 2019.
-
-Bryan, Matthew. "Lost in the City of Tomorrow: On Growing Up at the
-Borders of Walt Disney's Unreality." UCF 2018 English Symposium:
-Breaking Boundaries & Making Spaces, Orlando, FL, March 2, 2018.
-
-Pinkert, Laurie A., and **Matthew Bryan**. "Using Principles to Guide
-Writing Instruction: Lessons Learned in First-Year Composition at UCF."
-Valencia College Reading + Writing Conference 2017, Orlando, FL,
-September 23, 2017.
-
 Bryan, Matthew, Emily Proulx\*, and Deborah Weaver. "Acting Beyond the
 Classroom: Student Publications as Sites for Learning about and Testing
 Rhetorical Agency." SAMLA (South Atlantic Modern Language Association)
 87, Durham, NC, November 13-15, 2015.
-
-Bryan, Matthew. "Writing at UCF: Expectations and Outcomes of First-Year
-Composition." UCF Literacy Symposium, Orlando, FL April 5, 2013.
 
 Bryan, Matthew. "Writing beyond the Teacher: Experiences Celebrating and
 Publishing Student Writing Outside of the Classroom." Classroom Matters:
@@ -157,19 +157,11 @@ Weaver, Debbie, Leslie Wolcott, and **Matthew Bryan**. "Helping Students
 Find a Voice: Experiences from Teaching a Writing about Writing
 Curriculum." Florida Writing Symposium, Orlando, FL September 21, 2012.
 
-Bryan, Matthew. "Creating Agency for Teachers and Students in a
-Writing-About-Writing Curriculum." Thomas R. Watson Conference,
-Louisville, KY, October 15, 2010.
-
-Bryan, Matthew. "Let Them Live Their Own Lives: Building a Relationship
-with a Character Over Time." Association of Writers & Writing Programs
-Annual Conference, Chicago, IL, February 11-14, 2009.
-
 Baker, Pamela, **Matthew Bryan**, Diego Rincón, Jessica Ryan, and Lydia
 Sanchez. "The Civically Engaged MFA: Giving Voice to Community." Florida
 Literary Arts Conference, St. Augustine, FL, November 2008.
 
-# AWARDS AND GRANTS
+### INTERNAL AWARDS 
 
 2020\. UCF College of Arts and Humanities Excellence in Undergraduate
 Teaching Award.
@@ -177,28 +169,30 @@ Teaching Award.
 2019\. UCF College of Arts and Humanities Teaching Incentive Program
 (TIP) Award Recipient, University of Central Florida.
 
-2018\. "Teaching in Active-Learning Spaces" Course Innovation Project
-Grant (\$500), UCF Faculty Center for Teaching and Learning.
-
-2018\. Research-Intensive Course Designation Workshop Grant (\$500),
-UCF Quality Enhancement Plan and Office of Undergraduate Research.
-
 2015\. UCF College of Arts and Humanities Excellence in Undergraduate
 Teaching Award.
 
 2014\. UCF College of Arts and Humanities Teaching Incentive Program
 (TIP) Award Recipient, University of Central Florida.
 
+### INTERNAL GRANTS
+
+2018\. "Teaching in Active-Learning Spaces" Course Innovation Project
+Grant (\$500), UCF Faculty Center for Teaching and Learning.
+
+2018\. Research-Intensive Course Designation Workshop Grant (\$500),
+UCF Quality Enhancement Plan and Office of Undergraduate Research.
+
 2009\. Co-Principle Investigator, Center for Humanities and Digital
 Research Grant for First Knights Write Showcase (\$980), University of
 Central Florida.
 
-# COURSES TAUGHT
+### COURSES TAUGHT
 
 *\* indicates course has received UCF's Quality Online Course
 Designation*
 
-**Undergraduate**
+#### Undergraduate
 
 Composition I (face-to-face; online; hybrid; honors)
 
@@ -212,13 +206,20 @@ reduced-seat time/active learning)
 
 Writing & Rhetoric E-Portfolio (online)
 
-**Graduate**
+#### Graduate
 
 Approaches to Teaching College Composition (face-to-face)
 
 > Seminar for Writing Consultants (face-to-face; online)
 
-# INTERNAL TALKS AND TRAINING
+### INTERNAL TALKS AND TRAINING
+
+\* *indicates student co-presenter*
+
+Bryan, Matthew, Ezekiel Acheampong\*, and Pamela Baker. "'Why Did You
+Choose to Apply...': Writing---and Revising---College Application and
+Scholarship Essays." UCF University Writing Center Workshop, October 15,
+2022.
 
 Bryan, Matthew, and Mekenzie McElroy\*. "Getting Started with Writing in
 the LEAD Scholars Academy." UCF LEAD Scholars Academy, September 13,
@@ -270,12 +271,21 @@ Richardson, Adele, and **Matthew Bryan**. "Course Redesign Initiative
 Workshop." UCF Department of Writing and Rhetoric Workshop, February 14,
 2019.
 
+Bryan, Matthew. "Lost in the City of Tomorrow: On Growing Up at the
+Borders of Walt Disney's Unreality." UCF 2018 English Symposium:
+Breaking Boundaries & Making Spaces, Orlando, FL, March 2, 2018.
+
 Bryan, Matthew. "Old Genre, New Times: Teaching Students to Essay in
 2017 and Beyond." UCF Faculty Center for Teaching and Learning Winter
 Faculty Development, December 12, 2017.
 
 Bryan, Matthew. "On (Not) Becoming William Faulkner." Invited Keynote,
 Writers UKnighted Fall Writing Workshop, UCF, November 5, 2017.
+
+Pinkert, Laurie A., and **Matthew Bryan**. "Using Principles to Guide
+Writing Instruction: Lessons Learned in First-Year Composition at UCF."
+Valencia College Reading + Writing Conference 2017, Orlando, FL,
+September 23, 2017.
 
 Mansfield, Lissa Pompos, **Matthew Bryan**, and Debbie Weaver. "Models
 of Peer Review." UCF Department of Writing and Rhetoric First-Year
@@ -352,7 +362,10 @@ Roozen, Kevin, and **Matthew Bryan**. "Designing Writing Tasks for ENC
 September 24, 2013.
 
 Bryan, Matthew, and Kevin Roozen. "1102: What We Think We Know." UCF
-Department of Writing and Rhetoric Orientation, August 15, 2013
+Department of Writing and Rhetoric Orientation, August 15, 2013.
+
+Bryan, Matthew. "Writing at UCF: Expectations and Outcomes of First-Year
+Composition." UCF Literacy Symposium, Orlando, FL April 5, 2013.
 
 Zemliansky, Pavel, Leslie Wolcott, Chris Friend, Vaness Calkins, and
 **Matthew Bryan**. "ePortfolios in ENC 1101 and 1102: Experiences,
@@ -395,7 +408,7 @@ Program Workshop, UCF Department of English, March 17, 2010.
 Bryan, Matthew. "10 Week Writing about Writing First-Year Composition
 Training." UCF Department of English, Spring 2010.
 
-# THESIS COMMITTEE MEMBER
+### THESIS COMMITTEE MEMBER
 
 2020 -- 2021. Sarah Rumsey. Rhetoric and Composition M.A. "Authoring
 Health Literacy in the Everyday." Defended Spring 2021.
@@ -409,13 +422,13 @@ Defended Spring 2020.
 of Skipping First Year Composition: Mapping Student Writing from High
 School to the Academic Disciplines." Defended Spring 2017.
 
-# PROFESSIONAL SERVICE
+### PROFESSIONAL SERVICE
 
-# 2022. Proposal Reviewer, Florida Undergraduate Research Conference (FURC).
+2022\. Proposal Reviewer, Florida Undergraduate Research Conference (FURC).
 
-# UNIVERSITY OF CENTRAL FLORIDA SERVICE
+### UNIVERSITY OF CENTRAL FLORIDA SERVICE
 
-**University**
+#### University
 
 2022\. Judge, Student Scholar Symposium Research-Intensive Poster
 Showcase.
@@ -431,14 +444,14 @@ and Academic Integrity.
 2017 -- 2019. UCF-Valencia Curriculum Alignment Committee,
 Communications Foundation, Writing and Rhetoric Track.
 
-**College**
+#### College
 
 2020\. DWR Chair Search Committee.
 
 2017\. College of Arts & Humanities Journal and Center for Humanities
 & Digital Research Task Force.
 
-**Department**
+#### Department
 
 2022 -- Present. Co-Chair, DWR/UWC High School Application and
 Scholarship Workshops Committee.
