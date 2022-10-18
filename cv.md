@@ -4,24 +4,13 @@ permalink: /cv/
 title: CV
 published: true
 ---
-**Matthew Bryan**
-
-Senior Lecturer
-
-> University of Central Florida Department of Writing and Rhetoric
->
-> P.O. Box 161345
->
-> Orlando, FL 32816-1345
-
-[[Matthew.Bryan@ucf.edu]{.underline}](mailto:Matthew.Bryan@ucf.edu)
 
 # EDUCATION
 
-> **M.F.A., Master of Fine Arts in Creative Writing**, University of
-> Central Florida, 2009
->
-> **B.A., English**, University of Central Florida, 2006
+**M.F.A., Master of Fine Arts in Creative Writing**, University of
+Central Florida, 2009
+
+**B.A., English**, University of Central Florida, 2006
 
 # ACADEMIC POSITIONS
 
@@ -41,16 +30,16 @@ August 2009 -- August 2010
 **Assistant Director**, University Writing Center, University of Central
 Florida, August 2020 -- Present
 
-> **Founding Editor/Co-Editor**, *Stylus*: *A Journal of First-Year
-> Writing*, September 2009 -- May 2020 (Co- Editor, January 2017 -- May
-> 2020)
->
-> **Coordinator of First-Year Composition,** Department of Writing and
-> Rhetoric, University of Central Florida, May 2013 -- May 2017
->
-> **Assistant Coordinator of First-Year Composition**, Department of
-> Writing and Rhetoric, University of Central Florida, August 2012 --
-> April 2013
+**Founding Editor/Co-Editor**, *Stylus*: *A Journal of First-Year
+Writing*, September 2009 -- May 2020 (Co- Editor, January 2017 -- May
+2020)
+
+**Coordinator of First-Year Composition,** Department of Writing and
+Rhetoric, University of Central Florida, May 2013 -- May 2017
+
+**Assistant Coordinator of First-Year Composition**, Department of
+Writing and Rhetoric, University of Central Florida, August 2012 --
+April 2013
 
 **PUBLICATIONS**
 
@@ -182,27 +171,27 @@ Literary Arts Conference, St. Augustine, FL, November 2008.
 
 # AWARDS AND GRANTS
 
-> 2020\. UCF College of Arts and Humanities Excellence in Undergraduate
-> Teaching Award.
->
-> 2019\. UCF College of Arts and Humanities Teaching Incentive Program
-> (TIP) Award Recipient, University of Central Florida.
->
-> 2018\. "Teaching in Active-Learning Spaces" Course Innovation Project
-> Grant (\$500), UCF Faculty Center for Teaching and Learning.
->
-> 2018\. Research-Intensive Course Designation Workshop Grant (\$500),
-> UCF Quality Enhancement Plan and Office of Undergraduate Research.
->
-> 2015\. UCF College of Arts and Humanities Excellence in Undergraduate
-> Teaching Award.
->
-> 2014\. UCF College of Arts and Humanities Teaching Incentive Program
-> (TIP) Award Recipient, University of Central Florida.
->
-> 2009\. Co-Principle Investigator, Center for Humanities and Digital
-> Research Grant for First Knights Write Showcase (\$980), University of
-> Central Florida.
+2020\. UCF College of Arts and Humanities Excellence in Undergraduate
+Teaching Award.
+
+2019\. UCF College of Arts and Humanities Teaching Incentive Program
+(TIP) Award Recipient, University of Central Florida.
+
+2018\. "Teaching in Active-Learning Spaces" Course Innovation Project
+Grant (\$500), UCF Faculty Center for Teaching and Learning.
+
+2018\. Research-Intensive Course Designation Workshop Grant (\$500),
+UCF Quality Enhancement Plan and Office of Undergraduate Research.
+
+2015\. UCF College of Arts and Humanities Excellence in Undergraduate
+Teaching Award.
+
+2014\. UCF College of Arts and Humanities Teaching Incentive Program
+(TIP) Award Recipient, University of Central Florida.
+
+2009\. Co-Principle Investigator, Center for Humanities and Digital
+Research Grant for First Knights Write Showcase (\$980), University of
+Central Florida.
 
 # COURSES TAUGHT
 
@@ -408,17 +397,17 @@ Training." UCF Department of English, Spring 2010.
 
 # THESIS COMMITTEE MEMBER
 
-> 2020 -- 2021. Sarah Rumsey. Rhetoric and Composition M.A. "Authoring
-> Health Literacy in the Everyday." Defended Spring 2021.
->
-> 2019 -- 2020. Rena Perez. Rhetoric and Composition M.A. "Connecting
-> Theories of Learning and Transfer to the Use of Model/Sample Texts as
-> Examples for Teaching Writing in First-Year College Composition."
-> Defended Spring 2020.
->
-> 2016 -- 2017. Craig Bell. Rhetoric and Composition M.A. "Consequences
-> of Skipping First Year Composition: Mapping Student Writing from High
-> School to the Academic Disciplines." Defended Spring 2017.
+2020 -- 2021. Sarah Rumsey. Rhetoric and Composition M.A. "Authoring
+Health Literacy in the Everyday." Defended Spring 2021.
+
+2019 -- 2020. Rena Perez. Rhetoric and Composition M.A. "Connecting
+Theories of Learning and Transfer to the Use of Model/Sample Texts as
+Examples for Teaching Writing in First-Year College Composition."
+Defended Spring 2020.
+
+2016 -- 2017. Craig Bell. Rhetoric and Composition M.A. "Consequences
+of Skipping First Year Composition: Mapping Student Writing from High
+School to the Academic Disciplines." Defended Spring 2017.
 
 # PROFESSIONAL SERVICE
 
@@ -428,113 +417,82 @@ Training." UCF Department of English, Spring 2010.
 
 **University**
 
-> 2022\. Judge, Student Scholar Symposium Research-Intensive Poster
-> Showcase.
->
-> 2018 -- 2019. High-Impact Practice Course Designation Review
-> Committee.
->
-> 2018 -- 2019. High-Impact Practice Peer Coach Committee.
->
-> 2017 -- 2022. Student Conduct Review Board, Office of Student Conduct
-> and Academic Integrity.
->
-> 2017 -- 2019. UCF-Valencia Curriculum Alignment Committee,
-> Communications Foundation, Writing and Rhetoric Track.
+2022\. Judge, Student Scholar Symposium Research-Intensive Poster
+Showcase.
+
+2018 -- 2019. High-Impact Practice Course Designation Review
+Committee.
+
+2018 -- 2019. High-Impact Practice Peer Coach Committee.
+
+2017 -- 2022. Student Conduct Review Board, Office of Student Conduct
+and Academic Integrity.
+
+2017 -- 2019. UCF-Valencia Curriculum Alignment Committee,
+Communications Foundation, Writing and Rhetoric Track.
 
 **College**
 
-> 2020\. DWR Chair Search Committee.
->
-> 2017\. College of Arts & Humanities Journal and Center for Humanities
-> & Digital Research Task Force.
+2020\. DWR Chair Search Committee.
+
+2017\. College of Arts & Humanities Journal and Center for Humanities
+& Digital Research Task Force.
 
 **Department**
 
-> 2022 -- Present. Co-Chair, DWR/UWC High School Application and
-> Scholarship Workshops Committee.
->
-> 2020 -- Present. Parliamentarian, Department of Writing and Rhetoric.
->
-> 2020\. DWR Diversity and Inclusion Committee.
->
-> 2019 -- Present. Faculty Manuscript Reviewer, *Convergence/Rhetoric*.
->
-> 2019 -- 2020. Chair, DWR Bylaws Revision Task Force.
->
-> 2018 -- 2020. DWR Undergraduate Curriculum Committee.
->
-> 2018 -- 2019. DWR Graduate Programs Committee.
->
-> 2017, 2022. Chair, DWR Instructor/Lecturer Hiring Committee.
->
-> 2016 -- 2021. DWR Undergraduate B.A. Portfolio Review Committee (Chair
-> Fall 2018, Fall 2019 -- Spring 2020).
->
-> 2016 -- 2017. Assistant Professor of Digital and Multimodal Rhetoric
-> and Writing Hiring Committee.
->
-> 2016 -- 2017. Assistant Professor of Literacy Studies/Assistant
-> Director of First-Year Composition Hiring Committee.
->
-> 2016\. Hiring Committee for Global UCF DWR Instructor/Lecturer.
->
-> 2016\. Hiring Committee for 4 Instructor/Lecturers.
->
-> 2015 --2017, 2019 --2021. DWR Council.
->
-> 2015 -- 2016. DWR Student Awards Committee.
->
-> 2014\. Hiring Committee for Assistant Professor.
->
-> 2013 -- 2014. DWR Supporting Online Teaching Committee.
->
-> 2013 -- 2014. DWR Awards Planning Committee.
->
-> 2012, 2014, 2016 -- 2018, 2022. DWR Instructor/Lecturer Promotion
-> Committee.
->
-> 2012\. Upper-Division and Graduate Curriculum Committee (Professional
-> Writing Cluster).
->
-> 2011 -- 2012. ENC 1102 Revision Committee.
->
-> 2010 -- 2018. First-Year Composition GTA Mentor.
->
-> 2010 -- 2011. Founding Coordinator, Knights Write Showcase.
->
-> 2010\. Hiring Committee for Two Instructors (President's Class Size
-> Initiative), Department of English.
->
-> 2009 -- 2017. First-Year Composition Assessment Committee.
+2022 -- Present. Co-Chair, DWR/UWC High School Application and
+Scholarship Workshops Committee.
 
-# ADDITIONAL PROFESSIONAL TRAINING
+2020 -- Present. Parliamentarian, Department of Writing and Rhetoric.
 
-> 2020\. UCF Faculty Center for Teaching and Learning Summer Workshop,
-> "Back to Basics: Rethinking Our Pedagogy in Times of Uncertainty."
->
-> 2018\. UCF GEP Faculty Development Program, College of Undergraduate
-> Studies, University of Central Florida.
->
-> 2018\. IDL 7000, Center for Distributed Learning, University of
-> Central Florida.
->
-> 2019\. UCF Faculty Center for Teaching and Learning Summer Conference,
-> Diversity Track.
->
-> 2018\. UCF Faculty Center for Teaching and Learning Summer Conference.
->
-> 2017\. UCF Faculty Center for Teaching and Learning Winter Conference.
->
-> 2016\. UCF Faculty Center for Teaching and Learning Summer Conference.
->
-> 2014\. Writing Program Administrators Workshop, Illinois State
-> University.
->
-> 2012\. IDL 6543: Interactive Distributed Learning for
-> Technology-Mediated Course Delivery, Center for Distributed Learning,
-> University of Central Florida.
->
-> 2012\. ADL 5000: Advanced Distributed Learning for Technology-Mediated
-> Course Delivery, Center for Distributed Learning, University of
-> Central Florida.
+2020\. DWR Diversity and Inclusion Committee.
+
+2019 -- Present. Faculty Manuscript Reviewer, *Convergence/Rhetoric*.
+
+2019 -- 2020. Chair, DWR Bylaws Revision Task Force.
+
+2018 -- 2020. DWR Undergraduate Curriculum Committee.
+
+2018 -- 2019. DWR Graduate Programs Committee.
+
+2017, 2022. Chair, DWR Instructor/Lecturer Hiring Committee.
+
+2016 -- 2021. DWR Undergraduate B.A. Portfolio Review Committee (Chair
+Fall 2018, Fall 2019 -- Spring 2020).
+
+2016 -- 2017. Assistant Professor of Digital and Multimodal Rhetoric
+and Writing Hiring Committee.
+
+2016 -- 2017. Assistant Professor of Literacy Studies/Assistant
+Director of First-Year Composition Hiring Committee.
+
+2016\. Hiring Committee for Global UCF DWR Instructor/Lecturer.
+
+2016\. Hiring Committee for 4 Instructor/Lecturers.
+
+2015 --2017, 2019 --2021. DWR Council.
+
+2015 -- 2016. DWR Student Awards Committee.
+
+2014\. Hiring Committee for Assistant Professor.
+
+2013 -- 2014. DWR Supporting Online Teaching Committee.
+
+2013 -- 2014. DWR Awards Planning Committee.
+
+2012, 2014, 2016 -- 2018, 2022. DWR Instructor/Lecturer Promotion
+Committee.
+
+2012\. Upper-Division and Graduate Curriculum Committee (Professional
+Writing Cluster).
+
+2011 -- 2012. ENC 1102 Revision Committee.
+
+2010 -- 2018. First-Year Composition GTA Mentor.
+
+2010 -- 2011. Founding Coordinator, Knights Write Showcase.
+
+2010\. Hiring Committee for Two Instructors (President's Class Size
+Initiative), Department of English.
+
+2009 -- 2017. First-Year Composition Assessment Committee.
