@@ -9,8 +9,8 @@ email: #
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+permalink: /courses/:year/:title/
+paginate_path: /courses/page:num/
 
 # Social media links in footer
 linkedin: "https://www.linkedin.com/in/matthew-bryan-71930b254/"
