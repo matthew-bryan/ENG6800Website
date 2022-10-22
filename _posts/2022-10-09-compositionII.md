@@ -16,14 +16,13 @@ To get a fuller idea of the sort of writing and research we'll be doing, check o
 
 ## Course Objectives
 
-- **Writing Processes & Adaptation**: Students will be able to describe and reflect on writing processes in order to flexibly adapt them to support their goals.
+Through the work in this course, students will...
 
-- **Multiple Literacies & Goal Setting**: Students will be able to demonstrate how they marshal/leverage their multiple literacies (e.g. speaking, listening, reading, multilingual writing, translating, multimodality, etc.) to support their writing processes.
-
-- **Variation across Contexts**: Students will be able to identify, analyze, and reflect on variation in rhetorical and linguistic patterns, including their own, from a range of contexts (e.g cultural, digital, workplace, and/or academic).
-
-- **Decision Making & Production**: Students will be able to produce writing that demonstrates their ability to navigate choices and constraints when writing for specific audiences, genres, and purposes.
-
-- **Writing and Power**: Students will be able to critically examine and act on the relationship among identity, literacy, language, and power.
-
-- **Revision**: Students will be able to negotiate differences in and act with intention on feedback from readers when drafting, revising, and editing their writing.
+- evaluate and synthesize scholarly work from the discipline of Writing Studies in ways that demonstrate an understanding of the situated and intertextual nature of writing and research.
+- formulate a specific, meaningful research question that is appropriate both to the Writing Studies-related problem at the center of the course and the scope/timeframe of a single semester.
+- engage in a recursive, inquiry-based research process using appropriate Writing Studies methodology.
+- collaborate with classmates and instructor to interpret data and findings using discipline-specific analytical tools and frameworks.
+- develop and communicate arguments utilizing data and findings through typical Writing Studies research genres (including conference proposals, abstracts, and scholarly articles).
+- revise their writing and research products over time in response to peer and instructor feedback.
+- examine their own conceptions of writing and language in response to their inquiry, reading, and writing throughout the course.
+- learn about ways to get involved with further research at UCF and beyond.
