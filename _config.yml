@@ -13,10 +13,10 @@ permalink: /courses/:year/:title/
 paginate_path: /courses/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/matthew-bryan-71930b254/"
-github: "https://github.com/matthew-bryan"
-orcid: "https://orcid.org/0000-0001-9597-3048"
-mastodon: "https://joinmastodon.org"
+linkedin: "matthew-bryan-71930b254/"
+github: "matthew-bryan"
+orcid: "0000-0001-9597-3048"
+mastodon: "@MatthewBryan"
 
 # Markdown
 highlighter: rouge
