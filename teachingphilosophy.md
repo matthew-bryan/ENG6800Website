@@ -4,7 +4,7 @@ permalink: /teachingphilosophy/
 title: Teaching Philosophy
 published: true
 ---
-### Teaching Philosophy
+## Teaching Philosophy
 
 Writing scholar and teacher Nancy Sommers writes, "With writing and with
 teaching, as well as with love, we don't know how the sentence will
@@ -87,7 +87,7 @@ want them to leave feeling like writers who can fail, who can learn, who
 can keep going, and, in doing so, become exactly the writers they want
 to be.
 
-#### Works Cited**
+#### Works Cited
 
 Horner, Bruce, et al. "Language Difference in Writing: Toward a
 Translingual Approach." *College English*, vol. 73, no. 3, 2011, pp.
