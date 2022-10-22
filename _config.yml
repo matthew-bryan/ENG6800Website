@@ -16,6 +16,7 @@ paginate_path: /courses/page:num/
 linkedin: "https://www.linkedin.com/in/matthew-bryan-71930b254/"
 github: "https://github.com/matthew-bryan"
 orcid: "https://orcid.org/0000-0001-9597-3048"
+mastodon: "https://joinmastodon.org"
 
 # Markdown
 highlighter: rouge

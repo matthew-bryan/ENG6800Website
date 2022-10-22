@@ -39,7 +39,8 @@
 .fa-envelope
 .fa-quora
 .fa-instagram
-.fa-stack-overflow {
+.fa-stack-overflow
+.fa-mastodon {
   font-size: 25px;
 }
 
@@ -146,4 +147,14 @@
   color: #f48024;
   background: #fefefe;
   border-color: #5dd1b0;
+}
+
+.rounded-social-buttons .social-button.mastodon {
+  background: #183153;
+}
+
+.rounded-social-buttons .social-button.mastodon:hover, .rounded-social-buttons .social-button.mastodon:focus {
+  color: #183153;
+  background: #fefefe;
+  border-color: #183153;
 }
