@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWCA '21 Talk
+title: OWCA '21
 description: Reflections on a Co-Curricular Writing Lab Pilot
 ---
 ## Rewriting “Collaboration” in (and around) the Center: Reflections on a Co-Curricular Writing Lab Pilot

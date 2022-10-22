@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SWCA '22 Talk
+title: SWCA '22
 description: Using Session Notes to Trace Shifts in a Writing Center’s Values and Practices over Time
 ---
 ## “Noting” the Past, Looking Ahead: Using Session Notes to Trace Shifts in a Writing Center’s Values and Practices over Time
