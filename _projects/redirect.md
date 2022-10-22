@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: Stylus: A Journal of First-Year Writing
+description: Editor, 2009-2020
+redirect: https://cah.ucf.edu/writingrhetoric/stylus/
 ---
