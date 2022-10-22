@@ -5,7 +5,7 @@ description: Reflections on a Co-Curricular Writing Lab Pilot
 ---
 ## Rewriting “Collaboration” in (and around) the Center: Reflections on a Co-Curricular Writing Lab Pilot
 
-============
+---
 
 This page includes session materials from a presentation I created for the first Online Writing Centers Association conference, which was held virtually in 2021. This talk explored some initial results and insights gained from a Writing Lab co-curricular pilot undertaken in the University Writing Center at the University of Central Florida during Spring 2021. This reflection is framed by the concept of "interdependence," which served as the conference's theme.
 

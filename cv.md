@@ -12,6 +12,8 @@ Central Florida, 2009
 
 **B.A., English**, University of Central Florida, 2006
 
+---
+
 ### ACADEMIC POSITIONS
 
 **Senior Lecturer**, Department of Writing and Rhetoric, University of Central Florida, August 2022 -- Present
@@ -24,6 +26,8 @@ Florida, August 2010 -- August 2016
 
 **Instructor**, Department of English, University of Central Florida,
 August 2009 -- August 2010
+
+---
 
 ### LEADERSHIP EXPERIENCE
 
@@ -40,6 +44,8 @@ Rhetoric, University of Central Florida, May 2013 -- May 2017
 **Assistant Coordinator of First-Year Composition**, Department of
 Writing and Rhetoric, University of Central Florida, August 2012 --
 April 2013
+
+---
 
 ### PUBLICATIONS
 
@@ -92,6 +98,8 @@ Bryan, Matthew. "Writing-about-Writing, but What Writing and How Are We
 Writing about It?" *Write On: Notes on Teaching Writing about Writing*,
 4 Nov. 2010, Bedford/St. Martin's, bedfordbits.colostate.edu/
 index.php/2010/11/04/writing-about-writing-but-what-writing-and-how-are-we-writing-about-it/.
+
+---
 
 ### CONFERENCE PRESENTATIONS
 
@@ -161,6 +169,8 @@ Baker, Pamela, **Matthew Bryan**, Diego Rincón, Jessica Ryan, and Lydia
 Sanchez. "The Civically Engaged MFA: Giving Voice to Community." Florida
 Literary Arts Conference, St. Augustine, FL, November 2008.
 
+---
+
 ### INTERNAL AWARDS 
 
 2020\. UCF College of Arts and Humanities Excellence in Undergraduate
@@ -187,6 +197,8 @@ UCF Quality Enhancement Plan and Office of Undergraduate Research.
 Research Grant for First Knights Write Showcase (\$980), University of
 Central Florida.
 
+---
+
 ### COURSES TAUGHT
 
 *\* indicates course has received UCF's Quality Online Course
@@ -210,7 +222,9 @@ Writing & Rhetoric E-Portfolio (online)
 
 Approaches to Teaching College Composition (face-to-face)
 
-> Seminar for Writing Consultants (face-to-face; online)
+Seminar for Writing Consultants (face-to-face; online)
+
+---
 
 ### INTERNAL TALKS AND TRAINING
 
@@ -421,6 +435,8 @@ Defended Spring 2020.
 2016 -- 2017. Craig Bell. Rhetoric and Composition M.A. "Consequences
 of Skipping First Year Composition: Mapping Student Writing from High
 School to the Academic Disciplines." Defended Spring 2017.
+
+---
 
 ### PROFESSIONAL SERVICE
 

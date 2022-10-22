@@ -4,7 +4,8 @@ title: PNWCA '21
 description: Reading a Writing Center’s Spaces and Objects
 ---
 ## Empty Spaces that Are Still Full: Reading a Writing Center’s Spaces and Objects through Mediated Discourse Theory
-============
+
+---
 
 This page includes materials from a presentation I created for the 2021 Pacific Northwest Writing Centers Association conference. Here, I apply mediated discoure theory as a means of beginning to "read" some of the spaces in our writing center, empty (of people) as they were in light of remote operations taking place during the pandemic. 
 
